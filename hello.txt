@@ -1,2 +1,2 @@
 this is first test file
-this is second line 
+Hi just checking merge conflicts
